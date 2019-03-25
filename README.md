@@ -1,1 +1,2 @@
-# rb25f_armbian-firmware
+# firmware
+Armbian specific firmware
